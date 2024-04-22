@@ -14,6 +14,12 @@ hhh
 
 ## How To Contribute
 hyhyhy7frfregre
+<<<<<<< HEAD
 please fork this repository
 
 ### Copyright
+=======
+
+### Copyright 
+hey hey hey
+>>>>>>> simple-changes
